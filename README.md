@@ -14,7 +14,7 @@ __Install__
 
 Use the git to clone the project to your local machine.
 
-    https://github.com/BEGIM-bem/Short-Link-server-part.git
+    git clone https://github.com/BEGIM-bem/Short-Link-server-part.git
 
  Navigate to the extracted folder
 
